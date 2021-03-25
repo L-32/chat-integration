@@ -1,0 +1,18 @@
+[user]
+	email = golban.nikita1@gmail.com
+	name = Nik
+[alias]
+	st = status
+[status]
+	showStash = true
+[stash]
+	showPatch = true
+[merge]
+	conflictstyle = diff3
+[pull]
+	rebase = true
+	ff = true
+[diff]
+	submodule = log
+[init]
+	defaultBranch = main
